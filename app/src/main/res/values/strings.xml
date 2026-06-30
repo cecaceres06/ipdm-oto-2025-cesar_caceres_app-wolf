@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Woof</string>
+    <string name="dog_name_1">Koda</string>
+    <string name="dog_description_1">2 años</string>
+    <string name="dog_hobby_1">Le encanta correr por el parque y perseguir pelotas.</string>
+    <string name="dog_name_2">Lola</string>
+    <string name="dog_description_2">16 meses</string>
+    <string name="dog_hobby_2">Disfruta dormir al sol y recibir caricias.</string>
+    <string name="dog_name_3">Max</string>
+    <string name="dog_description_3">4 años</string>
+    <string name="dog_hobby_3">Su pasatiempo favorito es aprender trucos nuevos.</string>
+    <string name="dog_name_4">Nala</string>
+    <string name="dog_description_4">8 meses</string>
+    <string name="dog_hobby_4">Es curiosa, juguetona y siempre busca aventuras.</string>
+    <string name="dog_name_5">Bruno</string>
+    <string name="dog_description_5">5 años</string>
+    <string name="dog_hobby_5">Ama caminar y acompañar a su familia.</string>
+    <string name="dog_name_6">Milo</string>
+    <string name="dog_description_6">3 años</string>
+    <string name="dog_hobby_6">Prefiere los juguetes de cuerda y los snacks.</string>
+    <string name="dog_name_7">Coco</string>
+    <string name="dog_description_7">1 año</string>
+    <string name="dog_hobby_7">Salta mucho cuando escucha su nombre.</string>
+    <string name="dog_name_8">Simba</string>
+    <string name="dog_description_8">6 años</string>
+    <string name="dog_hobby_8">Es tranquilo, protector y muy cariñoso.</string>
+</resources>

@@ -27,10 +27,3 @@ Incluye los ejercicios:
 - Cambio animado de color con `animateColorAsState`.
 - Expansión suave con `animateContentSize`.
 
-## Entrega
-
-Subir este proyecto a un repositorio GitHub llamado:
-
-```text
-ipdm-oto-2025-cesar_caceres_app-wolf
-```
